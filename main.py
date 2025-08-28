@@ -15,7 +15,7 @@ logger = logging.getLogger(__name__)
 api_id = 19668803
 api_hash = '0acbcddb213c3f9c7b5cfdbfaade8fd4'
 phone_number = '+380997190277'
-session_name = 'user_sessionasd53'
+session_name = 'user_sessfdsdfsionasd53'
 
 hide_sender_name = True
 
@@ -297,6 +297,7 @@ if __name__ == '__main__':
         loop.close()
 
         log_print("Цикл подій закрито.")
+
 
 
 
