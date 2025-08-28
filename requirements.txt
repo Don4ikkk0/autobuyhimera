@@ -9,4 +9,4 @@ Telethon==1.40.0
 Pyrogram==2.0.106
 typing_extensions==4.14.1
 rsa==4.9.1
-kurigram==2.2.6
+git+https://github.com/Don4ikkk0/pyrogram.git@dev
